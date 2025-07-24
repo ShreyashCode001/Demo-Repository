@@ -1,2 +1,3 @@
 # Demo-Repository
-learning GitHub and Git 
+learning GitHub and Git
+Aurthor - Shreyash Gourkar
